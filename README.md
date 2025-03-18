@@ -88,5 +88,5 @@ Ce repository regroupe plusieurs projets en **Deep Learning**, allant de la clas
 **Auteur** : Amy Eben Sang Kotta  
 Ce projet rassemble divers travaux réalisés sur le Deep Learning, allant des CNN aux modèles NLP avancés.
 
-🚀 Suivez mon travail sur [GitHub](https://github.com/amyeben) et [LinkedIn](https://linkedin.com/in/amyeben) !
+🚀 Suivez mon travail sur [GitHub](https://github.com/amyeben) et [LinkedIn](https://linkedin.com/in/amy-eben) !
 

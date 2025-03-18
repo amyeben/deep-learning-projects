@@ -5,8 +5,6 @@ Ce projet met en œuvre un **réseau de neurones convolutifs (CNN)** pour la cla
 
 ## 📂 Fichiers
 - `cnn_image_classification.ipynb` : Notebook Jupyter contenant le code d'entraînement et d'évaluation du modèle.
-- `dataset/` (optionnel) : Dossier contenant les images utilisées.
-- `results/` (optionnel) : Dossier où sont stockés les résultats (graphiques, poids du modèle, etc.).
 
 ## 🔧 Prérequis
 - `tensorflow`

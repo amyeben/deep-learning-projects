@@ -6,7 +6,7 @@ Ce projet applique un **CNN** pour détecter des caractéristiques spécifiques 
 
 ## 📂 Fichiers
 - `detection_pregnancy.ipynb` : Notebook contenant le modèle de détection.
-- `output_images/` : Dossier contenant les images générées.
+- `output_images/` : Dossier contenant les images.
 
 ## 🔧 Prérequis
 - `tensorflow`
